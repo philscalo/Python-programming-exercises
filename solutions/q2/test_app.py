@@ -1,5 +1,7 @@
-from q2.app import factorize
 import unittest
+
+from solutions.q2.app import factorize
+
 
 class TestApp(unittest.TestCase):
 
